@@ -3,7 +3,7 @@
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayboy217&layout=compact&theme=tokyonight" />
 </p>
 
-## INTRODUCE
+## INTRODUCTION
 🇯🇵I'M TAICHI NIINA🇯🇵
 
 <!--
