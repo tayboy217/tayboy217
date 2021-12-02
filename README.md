@@ -1,5 +1,4 @@
-[![Taichi Niina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayboy217)](https://github.com/tayboy217/github-readme-stats)
-
+[![Taichi Niina's github stats](https://github-readme-stats.vercel.app/api?username=tayboy217&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tayboy217/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayboy217&layout=compact&theme=tokyonight)](https://github.com/tayboy217/)
 
 <!--
